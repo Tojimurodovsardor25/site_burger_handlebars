@@ -1,0 +1,28 @@
+{
+  "name": "site_burger_handlebars",
+  "version": "1.0.0",
+  "description": "Site Burger ( Handlebars ) (add , remove)",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "express-handlebars": "^5.3.4",
+    "nodemon": "^2.0.13",
+    "uuid": "^8.3.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Tojimurodovsardor25/site_burger_handlebars.git"
+  },
+  "keywords": [],
+  "author": "Sardor Tojimurodov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Tojimurodovsardor25/site_burger_handlebars/issues"
+  },
+  "homepage": "https://github.com/Tojimurodovsardor25/site_burger_handlebars#readme"
+}
